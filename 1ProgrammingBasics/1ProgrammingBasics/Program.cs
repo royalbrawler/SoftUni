@@ -10,6 +10,7 @@ namespace _1ProgrammingBasics
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
         }
     }
 }
