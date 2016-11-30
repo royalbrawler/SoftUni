@@ -1,0 +1,6 @@
+D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication3\obj\Debug\writeline exmpls.csprojResolveAssemblyReference.cache

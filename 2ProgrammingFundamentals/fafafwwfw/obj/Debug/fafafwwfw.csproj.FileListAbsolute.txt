@@ -1,0 +1,12 @@
+D:\projects\VSproject\ConsoleApplication1\fafafwwfw\bin\Debug\fafafwwfw.exe.config
+D:\projects\VSproject\ConsoleApplication1\fafafwwfw\bin\Debug\fafafwwfw.exe
+D:\projects\VSproject\ConsoleApplication1\fafafwwfw\bin\Debug\fafafwwfw.pdb
+D:\projects\VSproject\ConsoleApplication1\fafafwwfw\obj\Debug\fafafwwfw.csprojResolveAssemblyReference.cache
+D:\projects\VSproject\ConsoleApplication1\fafafwwfw\obj\Debug\fafafwwfw.exe
+D:\projects\VSproject\ConsoleApplication1\fafafwwfw\obj\Debug\fafafwwfw.pdb
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\bin\Debug\fafafwwfw.exe.config
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\obj\Debug\fafafwwfw.exe
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\obj\Debug\fafafwwfw.pdb
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\bin\Debug\fafafwwfw.exe
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\bin\Debug\fafafwwfw.pdb
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\obj\Debug\fafafwwfw.csprojResolveAssemblyReference.cache

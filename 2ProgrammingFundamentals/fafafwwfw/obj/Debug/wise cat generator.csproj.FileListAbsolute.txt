@@ -1,0 +1,3 @@
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\bin\Debug\fafafwwfw.exe.config
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\obj\Debug\fafafwwfw.exe
+D:\SOFTUNI\ConsoleApplication1\fafafwwfw\obj\Debug\fafafwwfw.pdb

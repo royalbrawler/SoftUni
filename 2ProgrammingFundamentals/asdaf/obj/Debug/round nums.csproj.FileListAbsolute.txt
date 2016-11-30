@@ -1,0 +1,6 @@
+D:\projects\VSproject\ConsoleApplication1\asdaf\bin\Debug\asdaf.exe.config
+D:\projects\VSproject\ConsoleApplication1\asdaf\obj\Debug\asdaf.exe
+D:\projects\VSproject\ConsoleApplication1\asdaf\obj\Debug\asdaf.pdb
+D:\SOFTUNI\ConsoleApplication1\asdaf\bin\Debug\asdaf.exe.config
+D:\SOFTUNI\ConsoleApplication1\asdaf\obj\Debug\asdaf.exe
+D:\SOFTUNI\ConsoleApplication1\asdaf\obj\Debug\asdaf.pdb

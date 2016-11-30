@@ -1,0 +1,9 @@
+D:\SOFTUNI\1ProgrammingBasics\calculator\bin\Debug\calculator.exe.config
+D:\SOFTUNI\1ProgrammingBasics\calculator\bin\Debug\calculator.exe
+D:\SOFTUNI\1ProgrammingBasics\calculator\bin\Debug\calculator.pdb
+D:\SOFTUNI\1ProgrammingBasics\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\1ProgrammingBasics\calculator\obj\Debug\calculator.Form1.resources
+D:\SOFTUNI\1ProgrammingBasics\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\SOFTUNI\1ProgrammingBasics\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\SOFTUNI\1ProgrammingBasics\calculator\obj\Debug\calculator.exe
+D:\SOFTUNI\1ProgrammingBasics\calculator\obj\Debug\calculator.pdb

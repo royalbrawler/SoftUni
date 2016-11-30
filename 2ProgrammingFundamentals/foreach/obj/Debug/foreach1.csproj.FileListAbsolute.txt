@@ -1,0 +1,5 @@
+D:\projects\VSproject\ConsoleApplication1\foreach\bin\Debug\@foreach.exe.config
+D:\projects\VSproject\ConsoleApplication1\foreach\bin\Debug\@foreach.exe
+D:\projects\VSproject\ConsoleApplication1\foreach\bin\Debug\@foreach.pdb
+D:\projects\VSproject\ConsoleApplication1\foreach\obj\Debug\@foreach.exe
+D:\projects\VSproject\ConsoleApplication1\foreach\obj\Debug\@foreach.pdb

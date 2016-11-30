@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0 to 9 array example", "ConsoleApplication1\0 to 9 array example.csproj", "{A4FEB4DC-4009-4526-8AF8-246EF42EA11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum last 5 arrays", "arrays\sum last 5 arrays.csproj", "{6A424982-C424-468A-AD76-45558F6A8D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string to array values", "yoyo\string to array values.csproj", "{029C9BC1-CB3F-4C16-8C76-E41EFB3D0DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple Sum", "saaadaf\Triple Sum.csproj", "{5DE1FC1B-50CF-423E-8FE8-27D9F93E5A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "round nums", "asdaf\round nums.csproj", "{2C8CE95B-7FF3-4EDC-837B-3EF8E8D8B0CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreachTT", "foreachTT\foreachTT.csproj", "{5A7815AF-23B5-42C9-BAD1-9C957A5D88A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wise cat generator", "fafafwwfw\wise cat generator.csproj", "{D5CF8081-24B1-4DED-9336-258464126665}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{7D41D2D8-CC8C-4232-977D-62B2199B1719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4FEB4DC-4009-4526-8AF8-246EF42EA11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FEB4DC-4009-4526-8AF8-246EF42EA11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FEB4DC-4009-4526-8AF8-246EF42EA11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FEB4DC-4009-4526-8AF8-246EF42EA11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A424982-C424-468A-AD76-45558F6A8D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A424982-C424-468A-AD76-45558F6A8D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A424982-C424-468A-AD76-45558F6A8D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A424982-C424-468A-AD76-45558F6A8D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029C9BC1-CB3F-4C16-8C76-E41EFB3D0DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029C9BC1-CB3F-4C16-8C76-E41EFB3D0DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029C9BC1-CB3F-4C16-8C76-E41EFB3D0DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029C9BC1-CB3F-4C16-8C76-E41EFB3D0DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE1FC1B-50CF-423E-8FE8-27D9F93E5A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE1FC1B-50CF-423E-8FE8-27D9F93E5A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE1FC1B-50CF-423E-8FE8-27D9F93E5A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE1FC1B-50CF-423E-8FE8-27D9F93E5A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8CE95B-7FF3-4EDC-837B-3EF8E8D8B0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8CE95B-7FF3-4EDC-837B-3EF8E8D8B0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8CE95B-7FF3-4EDC-837B-3EF8E8D8B0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8CE95B-7FF3-4EDC-837B-3EF8E8D8B0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7815AF-23B5-42C9-BAD1-9C957A5D88A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7815AF-23B5-42C9-BAD1-9C957A5D88A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7815AF-23B5-42C9-BAD1-9C957A5D88A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7815AF-23B5-42C9-BAD1-9C957A5D88A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CF8081-24B1-4DED-9336-258464126665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CF8081-24B1-4DED-9336-258464126665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CF8081-24B1-4DED-9336-258464126665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CF8081-24B1-4DED-9336-258464126665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4FEB4DC-4009-4526-8AF8-246EF42EA11B} = {7D41D2D8-CC8C-4232-977D-62B2199B1719}
+		{6A424982-C424-468A-AD76-45558F6A8D7F} = {7D41D2D8-CC8C-4232-977D-62B2199B1719}
+		{029C9BC1-CB3F-4C16-8C76-E41EFB3D0DC4} = {7D41D2D8-CC8C-4232-977D-62B2199B1719}
+		{5DE1FC1B-50CF-423E-8FE8-27D9F93E5A8F} = {7D41D2D8-CC8C-4232-977D-62B2199B1719}
+		{2C8CE95B-7FF3-4EDC-837B-3EF8E8D8B0CE} = {7D41D2D8-CC8C-4232-977D-62B2199B1719}
+		{5A7815AF-23B5-42C9-BAD1-9C957A5D88A7} = {7D41D2D8-CC8C-4232-977D-62B2199B1719}
+	EndGlobalSection
+EndGlobal

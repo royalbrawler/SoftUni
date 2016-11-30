@@ -1,0 +1,8 @@
+D:\projects\VSproject\ConsoleApplication1\foreachTT\bin\Debug\foreachTT.exe.config
+D:\projects\VSproject\ConsoleApplication1\foreachTT\bin\Debug\foreachTT.exe
+D:\projects\VSproject\ConsoleApplication1\foreachTT\bin\Debug\foreachTT.pdb
+D:\projects\VSproject\ConsoleApplication1\foreachTT\obj\Debug\foreachTT.exe
+D:\projects\VSproject\ConsoleApplication1\foreachTT\obj\Debug\foreachTT.pdb
+D:\SOFTUNI\ConsoleApplication1\foreachTT\bin\Debug\foreachTT.exe.config
+D:\SOFTUNI\ConsoleApplication1\foreachTT\obj\Debug\foreachTT.exe
+D:\SOFTUNI\ConsoleApplication1\foreachTT\obj\Debug\foreachTT.pdb
