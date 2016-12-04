@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentsHERE", "ExperimentsHERE\ExperimentsHERE.csproj", "{D1DC6F6B-717F-405C-A7DD-1BE4AB18DC15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam", "exam\exam.csproj", "{2B3AD84E-5C80-42C4-A6A3-E4028D66BA24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D1DC6F6B-717F-405C-A7DD-1BE4AB18DC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1DC6F6B-717F-405C-A7DD-1BE4AB18DC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1DC6F6B-717F-405C-A7DD-1BE4AB18DC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3AD84E-5C80-42C4-A6A3-E4028D66BA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3AD84E-5C80-42C4-A6A3-E4028D66BA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3AD84E-5C80-42C4-A6A3-E4028D66BA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3AD84E-5C80-42C4-A6A3-E4028D66BA24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
