@@ -6,20 +6,26 @@ namespace exam
     {
         static void Main(string[] args)
         {
-            double skumria = double.Parse(Console.ReadLine());
-            double caca = double.Parse(Console.ReadLine());
-            double palamud = double.Parse(Console.ReadLine());
-            double safrid = double.Parse(Console.ReadLine());
-            double midi = double.Parse(Console.ReadLine());
-
-            double Cenapalamud = skumria * 1.60;
-            palamud *= Cenapalamud;
-            double CenaSafrid = caca * 1.80;
-            safrid *= CenaSafrid;
-            midi = midi * 7.50;
-            double cena = palamud + safrid + midi;
-
-            Console.WriteLine(Math.Round(cena, 2));
+            int player1 = int.Parse(Console.ReadLine());
+            int player2 = int.Parse(Console.ReadLine());
+            int battles = int.Parse(Console.ReadLine());
+            int asd = battles;
+            for (int i = 1; i <= player1; i++)
+            {
+                for (int z = 1; z <= player2; z++)
+                {
+                    Console.Write($"({i} <-> {z}) ");
+                    asd--;
+                    if (asd <= 0)
+                    {
+                        break;
+                    }
+                }                
+                if (asd <= 0)
+                {
+                    break;
+                }
+            }
         }
     }
 }

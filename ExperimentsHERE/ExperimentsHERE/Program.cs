@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExperimentsHERE
 {
@@ -11,25 +6,33 @@ namespace ExperimentsHERE
     {
         static void Main(string[] args)
         {
-            //int hour = int.Parse(Console.ReadLine());
-            //int minutes = int.Parse(Console.ReadLine());
-            //minutes += 15;
+            int magnol = int.Parse(Console.ReadLine());
+            double triTona = 0;
+            double fourTona = 0;
+            double twelveTona = 0;
 
-            //if (minutes >= 60)
-            //{
-            //    hour++;
-            //    minutes -= 60;
-            //}
-            //if (hour >= 24)
-            //{
-            //    hour -= 24;
-            //}
-
-            //if (minutes < 10)
-            //    Console.WriteLine(hour + ":0" + minutes);
-            //else
-            //    Console.WriteLine(hour + ":" + minutes);
-            Console.WriteLine(Math.Round(1.2457, 2));
+            for (int i = 0; i < magnol; i++)
+            {
+                double asd = double.Parse(Console.ReadLine());
+                if (asd <= 3)
+                {
+                    triTona += asd;
+                }
+                else if (asd > 3 && asd <= 11)
+                {
+                    fourTona += asd;
+                }
+                else
+                {
+                    twelveTona += asd;
+                }
+            }
+            double Tonove = triTona + fourTona + twelveTona;
+            double srednaCena = ((triTona * 200) + (fourTona * 175) + (twelveTona * 120)) / Tonove;
+            Console.WriteLine("{0:F2}", srednaCena);
+            Console.WriteLine("{0:F2}%", triTona / Tonove * 100);
+            Console.WriteLine("{0:F2}%", fourTona / Tonove * 100);
+            Console.WriteLine("{0:F2}%", twelveTona / Tonove * 100);
         }
     }
 }

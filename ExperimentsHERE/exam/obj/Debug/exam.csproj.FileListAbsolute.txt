@@ -1,6 +1,6 @@
 D:\SOFTUNI\ExperimentsHERE\exam\bin\Debug\exam.exe.config
 D:\SOFTUNI\ExperimentsHERE\exam\bin\Debug\exam.exe
 D:\SOFTUNI\ExperimentsHERE\exam\bin\Debug\exam.pdb
-D:\SOFTUNI\ExperimentsHERE\exam\obj\Debug\exam.csprojResolveAssemblyReference.cache
 D:\SOFTUNI\ExperimentsHERE\exam\obj\Debug\exam.exe
 D:\SOFTUNI\ExperimentsHERE\exam\obj\Debug\exam.pdb
+D:\SOFTUNI\ExperimentsHERE\exam\obj\Debug\exam.csprojResolveAssemblyReference.cache
