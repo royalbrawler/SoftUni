@@ -9,3 +9,6 @@ D:\SOFTUNI\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1
 D:\SOFTUNI\2ProgrammingFundamentals\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 D:\SOFTUNI\2ProgrammingFundamentals\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\SOFTUNI\2ProgrammingFundamentals\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\projects\SOFTUNI\2ProgrammingFundamentals\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\projects\SOFTUNI\2ProgrammingFundamentals\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\projects\SOFTUNI\2ProgrammingFundamentals\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -10,3 +10,9 @@ D:\SOFTUNI\ExperimentsHERE\ExperimentsHERE\obj\Debug\ExperimentsHERE.pdb
 D:\SOFTUNI\ExperimentsHERE\ExperimentsHERE\bin\Debug\ExperimentsHERE.exe
 D:\SOFTUNI\ExperimentsHERE\ExperimentsHERE\bin\Debug\ExperimentsHERE.pdb
 D:\SOFTUNI\ExperimentsHERE\ExperimentsHERE\obj\Debug\ExperimentsHERE.csprojResolveAssemblyReference.cache
+D:\projects\SOFTUNI\ExperimentsHERE\ExperimentsHERE\bin\Debug\ExperimentsHERE.exe.config
+D:\projects\SOFTUNI\ExperimentsHERE\ExperimentsHERE\obj\Debug\ExperimentsHERE.exe
+D:\projects\SOFTUNI\ExperimentsHERE\ExperimentsHERE\obj\Debug\ExperimentsHERE.pdb
+D:\projects\SOFTUNI\ExperimentsHERE\ExperimentsHERE\bin\Debug\ExperimentsHERE.exe
+D:\projects\SOFTUNI\ExperimentsHERE\ExperimentsHERE\bin\Debug\ExperimentsHERE.pdb
+D:\projects\SOFTUNI\ExperimentsHERE\ExperimentsHERE\obj\Debug\ExperimentsHERE.csprojResolveAssemblyReference.cache
