@@ -17,7 +17,7 @@ namespace ConsoleApplication1
                 numbs[i] += i;
                 Console.WriteLine(numbs[i]);
             }
-            Console.WriteLine(numbs[10]);
+            Console.WriteLine(numbs[10]); // crash
 
         }
     }

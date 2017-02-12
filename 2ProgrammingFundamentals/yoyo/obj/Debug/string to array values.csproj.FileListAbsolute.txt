@@ -7,3 +7,6 @@ D:\projects\VSproject\ConsoleApplication1\yoyo\obj\Debug\string to array values.
 D:\SOFTUNI\ConsoleApplication1\yoyo\bin\Debug\yoyo.exe.config
 D:\SOFTUNI\ConsoleApplication1\yoyo\obj\Debug\yoyo.exe
 D:\SOFTUNI\ConsoleApplication1\yoyo\obj\Debug\yoyo.pdb
+D:\projects\SOFTUNI\2ProgrammingFundamentals\yoyo\bin\Debug\yoyo.exe.config
+D:\projects\SOFTUNI\2ProgrammingFundamentals\yoyo\obj\Debug\yoyo.exe
+D:\projects\SOFTUNI\2ProgrammingFundamentals\yoyo\obj\Debug\yoyo.pdb

@@ -7,8 +7,13 @@ namespace ExperimentsHERE
     {
         static void Main(string[] args)
         {
-            double asd = 10 / 0.0;
-            Console.WriteLine(asd);
+            string asd = Console.ReadLine();
+            int value;
+            if (int.TryParse(asd, out value))
+            {
+                Console.WriteLine("tetet");
+            }
+
         }
     }
 }
