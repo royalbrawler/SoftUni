@@ -7,6 +7,3 @@ D:\SOFTUNI\ConsoleApplication1\arrays\obj\Debug\arrays.pdb
 D:\SOFTUNI\ConsoleApplication1\arrays\bin\Debug\arrays.exe
 D:\SOFTUNI\ConsoleApplication1\arrays\bin\Debug\arrays.pdb
 D:\SOFTUNI\ConsoleApplication1\arrays\obj\Debug\sum last 5 arrays.csprojResolveAssemblyReference.cache
-D:\projects\SOFTUNI\2ProgrammingFundamentals\arrays\bin\Debug\arrays.exe.config
-D:\projects\SOFTUNI\2ProgrammingFundamentals\arrays\obj\Debug\arrays.exe
-D:\projects\SOFTUNI\2ProgrammingFundamentals\arrays\obj\Debug\arrays.pdb

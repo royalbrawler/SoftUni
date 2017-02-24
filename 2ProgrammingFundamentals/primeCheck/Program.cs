@@ -10,7 +10,7 @@ namespace primeCheck
             for (int NumTOcheck = 0; NumTOcheck <= MaxCheck; NumTOcheck++)
             {
                 bool isPrime = true;
-                for (int checker = 2; checker <= Math.Sqrt(NumTOcheck); checker++)
+                for (int checker = 2; checker <= Math.Sqrt(NumTOcheck); checker++) // actual checker
                 {
                     if (NumTOcheck % checker == 0)
                     {
