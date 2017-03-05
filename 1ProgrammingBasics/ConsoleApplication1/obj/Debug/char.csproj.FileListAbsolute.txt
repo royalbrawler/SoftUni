@@ -1,3 +1,0 @@
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,6 +1,0 @@
-D:\projects\VSproject\ConsoleApplication1\saaadaf\bin\Debug\saaadaf.exe.config
-D:\projects\VSproject\ConsoleApplication1\saaadaf\obj\Debug\saaadaf.exe
-D:\projects\VSproject\ConsoleApplication1\saaadaf\obj\Debug\saaadaf.pdb
-D:\SOFTUNI\ConsoleApplication1\saaadaf\bin\Debug\saaadaf.exe.config
-D:\SOFTUNI\ConsoleApplication1\saaadaf\obj\Debug\saaadaf.exe
-D:\SOFTUNI\ConsoleApplication1\saaadaf\obj\Debug\saaadaf.pdb

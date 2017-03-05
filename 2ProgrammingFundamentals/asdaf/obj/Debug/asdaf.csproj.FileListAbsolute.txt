@@ -1,6 +1,0 @@
-D:\projects\VSproject\ConsoleApplication1\asdaf\bin\Debug\asdaf.exe.config
-D:\projects\VSproject\ConsoleApplication1\asdaf\bin\Debug\asdaf.exe
-D:\projects\VSproject\ConsoleApplication1\asdaf\bin\Debug\asdaf.pdb
-D:\projects\VSproject\ConsoleApplication1\asdaf\obj\Debug\asdaf.csprojResolveAssemblyReference.cache
-D:\projects\VSproject\ConsoleApplication1\asdaf\obj\Debug\asdaf.exe
-D:\projects\VSproject\ConsoleApplication1\asdaf\obj\Debug\asdaf.pdb

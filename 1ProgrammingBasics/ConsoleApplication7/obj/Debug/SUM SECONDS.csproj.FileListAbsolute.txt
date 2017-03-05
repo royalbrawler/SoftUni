@@ -1,6 +1,0 @@
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication7\obj\Debug\SUM SECONDS.csprojResolveAssemblyReference.cache
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
-D:\SOFTUNI\1ProgrammingBasics\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

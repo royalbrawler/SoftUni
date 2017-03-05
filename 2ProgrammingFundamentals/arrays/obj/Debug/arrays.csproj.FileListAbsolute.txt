@@ -1,6 +1,0 @@
-D:\projects\VSproject\ConsoleApplication1\arrays\bin\Debug\arrays.exe.config
-D:\projects\VSproject\ConsoleApplication1\arrays\bin\Debug\arrays.exe
-D:\projects\VSproject\ConsoleApplication1\arrays\bin\Debug\arrays.pdb
-D:\projects\VSproject\ConsoleApplication1\arrays\obj\Debug\arrays.exe
-D:\projects\VSproject\ConsoleApplication1\arrays\obj\Debug\arrays.pdb
-D:\projects\VSproject\ConsoleApplication1\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
