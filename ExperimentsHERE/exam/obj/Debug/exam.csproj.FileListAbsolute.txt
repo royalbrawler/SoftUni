@@ -7,3 +7,6 @@ D:\SOFTUNI\ExperimentsHERE\exam\obj\Debug\exam.csprojResolveAssemblyReference.ca
 D:\projects\SOFTUNI\ExperimentsHERE\exam\bin\Debug\exam.exe.config
 D:\projects\SOFTUNI\ExperimentsHERE\exam\obj\Debug\exam.exe
 D:\projects\SOFTUNI\ExperimentsHERE\exam\obj\Debug\exam.pdb
+D:\projects\SOFTUNI\ExperimentsHERE\exam\obj\Debug\exam.csprojResolveAssemblyReference.cache
+D:\projects\SOFTUNI\ExperimentsHERE\exam\bin\Debug\exam.exe
+D:\projects\SOFTUNI\ExperimentsHERE\exam\bin\Debug\exam.pdb
