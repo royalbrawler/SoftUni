@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Cool Blog</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="scripts/jquery-1.10.2.js"></script>
+    <script src="scripts/bootstrap.js"></script>
+</head>
+<body>
+<header>
+    <div class="navbar navbar-default navbar-fixed-top text-uppercase">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="index.html" class="navbar-brand">Blog System</a>
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="register.html">Register</a></li>
+                    <li><a href="indexlog.html">Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
+
+<main>
+    <div class="container body-content">
+        <form class="form-horizontal">
+            <fieldset>
+                <legend>
+                    Register
+                </legend>
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="email">Email</label>
+                    <div class="col-md-4">
+                        <input id="email" type="text" class="form-control" placeholder="Enter email">
+
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="name">Full Name</label>
+                    <div class="col-md-4">
+                        <input id="name" type="text" class="form-control" placeholder="Your Name">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="pass">Password</label>
+                    <div class="col-md-4">
+                        <input id="pass" type="text" class="form-control" placeholder="Password">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="passConfirm">Confirm Password</label>
+                    <div class="col-md-4">
+                        <input id="passConfirm" type="text" class="form-control" placeholder="Confirm Password">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-4 col-sm-offset-4">
+                        <button type="reset" class="btn btn-default">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Register</button>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</main>
+
+<footer>
+    <div class="container modal-footer">
+        <p>
+            &copy; my nigga 2017 kappa
+        </p>
+    </div>
+</footer>
+
+</body>
+</html>

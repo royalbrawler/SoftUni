@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<title>My Cool Blog</title>
-	<link rel="stylesheet" href="styles/bootstrap.css">
-	<script src="scripts/jquery-3.1.1.min.js"></script>
+	<link rel="stylesheet" href="styles/style.css">
+	<script src="scripts/jquery-1.10.2.js"></script>
 	<script src="scripts/bootstrap.js"></script>
 </head>
 <body>
@@ -21,9 +21,9 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="newpost.html">Welcome, Madafaka!</a></li>
-					<li><a href="#">create New Post</a></li>
-					<li><a href="#">Logout</a></li>
+					<li><a href="#">Welcome, Madafaka!</a></li>
+					<li><a href="newpost.html">create New Post</a></li>
+					<li><a href="index.html">Logout</a></li>
 				</ul>
 			</div>
 		</div>
@@ -31,29 +31,29 @@
 </header>
 
 <main> 
-<div class="container body-content">
+<div class="container body-content span=8 offset=2">
 	<form class="form-horizontal">
 		<fieldset>
 			<legend>
 				New Post
 			</legend>
 			<div class="form-group">
-				<label class="col-md-4" for="title">Title</label>
+				<label class="col-sm-4 control-label" for="title">Title</label>
 				<div class="col-md-4">
 					<input id="title" type="text" class="form-control" placeholder="Post a post">
 				</div>
 			</div>
 			<div class="form-group">
-				<label class="col-md-4" for="author">Author</label>
+				<label class="col-sm-4 control-label" for="author">Author</label>
 				<div class="col-md-4">
 					<input id="author" type="text" class="form-control" placeholder="Post author">
 				</div>
 			</div>
 
 			<div class="form-group">
-				<label class="col-md-4" for="content">Content</label>
+				<label class="col-sm-4 control-label" for="content">Content</label>
 				<div class="col-md-4">
-					<textarea class="form-control" rows="10"></textarea>
+					<textarea id="content" class="form-control" rows="10"></textarea>
 				</div>
 			</div>
 

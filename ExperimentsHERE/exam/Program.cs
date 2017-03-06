@@ -20,12 +20,13 @@ namespace exam
             var authorlist = new List<string>();
             var filteredAuthorList = authorlist.Distinct();
             var quotelist = new List<string>();
-            var filteredquoteList = quotelist.Distinct();
+            var filteredquoteList = quotelist.Distinct().Where(q => q.Length > 50);
 
             for (int i = 1; i < 1207; i++)
             {
                 GetQuote(i);
-                authorlist.Add(w);
+                if (w == "")
+                    quotelist.Add(r);
 
                 //if (!r.Equals(""))
                 //{
@@ -36,22 +37,22 @@ namespace exam
             }
             int counter = 0;
             string google = "http://google.com/search?q=";
-            foreach (var item in filteredAuthorList)
+            foreach (var item in filteredquoteList)
             {
-                Console.WriteLine(filteredAuthorList.Count());
+                Console.WriteLine(filteredquoteList.Count());
                 counter++;
                 Console.WriteLine(item);
                 Console.WriteLine(counter);
                 var asd = Console.ReadLine();
                 if (asd == "asd")
                 {
-                    Console.Clear();
-                    continue;
+                    System.Diagnostics.Process.Start(google + item);
+                    Console.ReadLine();
                 }
                 else
                 {
-                    System.Diagnostics.Process.Start(google + item);
-                    Console.ReadLine();
+                    Console.Clear();
+                    continue;
                 }
                 Console.Clear();
             }
