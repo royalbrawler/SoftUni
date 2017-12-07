@@ -1,10 +1,9 @@
 # Software University
-This repo contains the Labs and Exercieses from the main courses of the SoftUni program.  
 
 ### Entry Module:
 <a href="https://softuni.bg/trainings/1479/programming-basics-october-2016" > Programming Basics C# </a> - [Certificate](https://softuni.bg/certificates/details/16036/e7974764)  
 <details>
-  <summary><em>COURSE CURRICULUM - click</em></summary>
+  <summary><em> Curriculum: </em></summary>
 <br> 
   
 | Topics - Programming Basics C#  |
@@ -16,17 +15,17 @@ This repo contains the Labs and Exercieses from the main courses of the SoftUni 
 | Repeats (Loops) |
 | Drawing Shapes with Loops |
 | Advanced Loops |
-
+***
 <br>
 </details>
 
 ### Tech Module:
-<a href="https://softuni.bg/trainings/1509/programming-fundamentals-january-2017" > Programming Fundamentals C#</a>
+<a href="https://softuni.bg/trainings/1509/programming-fundamentals-january-2017" > Programming Fundamentals </a>
 <details>
-  <summary><em>COURSE CURRICULUM - click</em></summary>
+  <summary><em> Curriculum: </em></summary>
 <br> 
   
-| Topics - Programming Fundamentals C#  |
+| Topics - Programming Fundamentals  |
 |----------|
 | GIT AND GITHUB |
 | DATA TYPES AND VARIABLES |
@@ -38,7 +37,7 @@ This repo contains the Labs and Exercieses from the main courses of the SoftUni 
 | FILES AND EXCEPTIONS |
 | STRINGS AND TEXT PROCESSING |
 | REGULAR EXPRESSIONS (REGEX) |
-
+***
 <br>
 </details>
 
@@ -47,7 +46,7 @@ This repo contains the Labs and Exercieses from the main courses of the SoftUni 
   
 <a href="https://softuni.bg/trainings/1511/software-technologies-february-2017" > Software Technologies</a>
 <details>
-  <summary><em>COURSE CURRICULUM - click</em></summary>
+  <summary><em> Curriculum: </em></summary>
 <br>
   <em>*Note: the topics covered here were just a basic overview of the different technologies(nothing serious taught)</em> 
 <br>  
@@ -70,7 +69,7 @@ This repo contains the Labs and Exercieses from the main courses of the SoftUni 
 | C#: ASP.NET MVC OVERVIEW (CONTROLLERS, HANDLING FORMS) |
 | C#: BLOG BASIC FUNCTIONALITY |
 | C#: BLOG ADMIN FUNCTIONALITY |
-
+***
 <br>
 </details>
 
