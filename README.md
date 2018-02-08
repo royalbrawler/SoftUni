@@ -17,7 +17,7 @@
 </details>
 
 ### Tech Module:
-<a href="https://softuni.bg/trainings/1509/programming-fundamentals-january-2017" > Programming Fundamentals</a>
+<a href="https://softuni.bg/trainings/1509/programming-fundamentals-january-2017"> Programming Fundamentals</a>
 <details>
   <summary><em> Curriculum: </em></summary> 
   
@@ -35,8 +35,10 @@
 | REGULAR EXPRESSIONS (REGEX) |
 ***
 </details>
+
 </br>
-<a href="https://softuni.bg/trainings/1511/software-technologies-february-2017" > Software Technologies</a>
+
+<a href="https://softuni.bg/trainings/1511/software-technologies-february-2017"> Software Technologies</a>
 <details>
   <summary><em> Curriculum: </em></summary>
   <em>*Note: the topics covered here were just a basic overview of the different technologies(nothing serious taught)</em>   
