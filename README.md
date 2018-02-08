@@ -35,10 +35,6 @@
 | REGULAR EXPRESSIONS (REGEX) |
 ***
 </details>
-
-<br>
-<br>
-  
 <a href="https://softuni.bg/trainings/1511/software-technologies-february-2017" > Software Technologies</a>
 <details>
   <summary><em> Curriculum: </em></summary>
