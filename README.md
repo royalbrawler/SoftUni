@@ -66,11 +66,11 @@
 
 ### Professional Modules:
 #### C# Fundamentals
-<a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018"> - C# Advanced </a>
+<a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018"> C# Advanced </a>
 <details>
 <summary><em> Curriculum: </em></summary> 
   
-| Topics -C# Advanced  |
+| Topics - C# Advanced  |
 |----------|
 | STACKS AND QUEUES |
 | MULTIDIMENSIONAL ARRAYS |
