@@ -36,6 +36,8 @@
 ***
 </details>
 
+</br>
+
 <a href="https://softuni.bg/trainings/1511/software-technologies-february-2017"> Software Technologies</a>
 <details>
   <summary><em> Curriculum: </em></summary>
@@ -64,7 +66,7 @@
 
 ### Professional Modules:
 #### C# Fundamentals
-<a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018"> C# Advanced </a>
+<a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018"> - C# Advanced </a>
 <details>
 <summary><em> Curriculum: </em></summary> 
   
@@ -77,3 +79,5 @@
 | LAB SUBMISSION - BASHSOFT |
 ***
 </details>
+
+</br>
