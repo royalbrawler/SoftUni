@@ -1,10 +1,10 @@
 # Software University  <img src="http://conf.softuni.bg/wp-content/uploads/2015/01/SoftUni-Logo-Flat_square-blue-300x235.png" alt="Softuni Logo" width="150" align="right"/>
 ### Entry Module:
-<a href="https://softuni.bg/trainings/1479/programming-basics-october-2016" > Programming Basics C# </a> - [ **Certificate** ](https://softuni.bg/certificates/details/16036/e7974764)
+<a href="https://softuni.bg/trainings/1479/programming-basics-october-2016" > Programming Basics </a> - [ **Certificate** ](https://softuni.bg/certificates/details/16036/e7974764)
 <details>
   <summary><em> Curriculum: </em></summary>
   
-| Topics - Programming Basics C#  |
+| Topics - Programming Basics  |
 |----------|
 | First Steps in Programming |
 | Simple Calculation |
@@ -65,4 +65,19 @@
 </details>
 
 ### Professional Modules:
-C# Fundamentals
+#### C# Fundamentals
+<a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018"> C# Advanced </a>
+<details>
+<summary><em> Curriculum: </em></summary> 
+  
+| Topics - C# Advanced  |
+|----------|
+| STACKS AND QUEUES |
+| MULTIDIMENSIONAL ARRAYS |
+| STREAMS |
+| FUNCTIONAL PROGRAMMING |
+| LAB SUBMISSION - BASHSOFT |
+***
+</details>
+
+</br>
