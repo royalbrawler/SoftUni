@@ -1,6 +1,10 @@
 # Software University  <img src="http://conf.softuni.bg/wp-content/uploads/2015/01/SoftUni-Logo-Flat_square-blue-300x235.png" alt="Softuni Logo" width="150" align="right"/>
 ### Entry Module:
-<a href="https://softuni.bg/trainings/1479/programming-basics-october-2016" > Programming Basics </a> - [ **Certificate** ](https://softuni.bg/certificates/details/16036/e7974764)
+
+<skalata style="margin-bottom: 0">
+<a href="https://softuni.bg/trainings/1479/programming-basics-october-2016" > Programming Basics </a> 
+<a href="https://softuni.bg/certificates/details/16036/e7974764" > - <strong>Certificate</strong> </a>
+</skalata>                                                       
 <details>
   <summary><em> Curriculum: </em></summary>
   
@@ -17,7 +21,9 @@
 </details>
 
 ### Tech Module:
+<skalata style="margin-bottom: 0">
 <a href="https://softuni.bg/trainings/1509/programming-fundamentals-january-2017"> Programming Fundamentals</a>
+</skalata> 
 <details>
   <summary><em> Curriculum: </em></summary> 
   
@@ -38,7 +44,9 @@
 
 </br>
 
+<skalata style="margin-bottom: 0">
 <a href="https://softuni.bg/trainings/1511/software-technologies-february-2017"> Software Technologies</a>
+</skalata> 
 <details>
   <summary><em> Curriculum: </em></summary>
   <em>*Note: the topics covered here were just a basic overview of the different technologies(nothing serious taught)</em>   
@@ -66,7 +74,9 @@
 
 ### Professional Modules:
 #### C# Fundamentals
+<skalata style="margin-bottom: 0">
 <a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018"> C# Advanced </a>
+</skalata> 
 <details>
 <summary><em> Curriculum: </em></summary> 
   
