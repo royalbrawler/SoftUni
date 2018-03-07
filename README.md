@@ -2,8 +2,8 @@
 ### Entry Module:
 
 <skalata style="margin-bottom: 0">
-<a href="https://softuni.bg/trainings/1479/programming-basics-october-2016" > Programming Basics </a> 
-<a href="https://softuni.bg/certificates/details/16036/e7974764" > - <strong>Certificate</strong> </a>
+<a href="https://softuni.bg/trainings/1479/programming-basics-october-2016" > Programming Basics - </a> 
+<a href="https://softuni.bg/certificates/details/16036/e7974764" ><strong>Certificate</strong> </a>
 </skalata>                                                       
 <details>
   <summary><em> Curriculum: </em></summary>
