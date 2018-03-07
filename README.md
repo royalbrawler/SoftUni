@@ -49,7 +49,7 @@
 </skalata> 
 <details>
   <summary><em> Curriculum: </em></summary>
-  <em>*Note: the topics covered here were just a basic overview of the different technologies(nothing serious taught)</em>   
+  <em>*Note: the topics covered here were just a basic overview of the different technologies</em>   
   
 | Topics - Software Technologies  |
 |----------|
@@ -73,7 +73,7 @@
 </details>
 
 ### Professional Modules:
-#### C# Fundamentals
+#### __C# Fundamentals__
 <skalata style="margin-bottom: 0">
 <a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018"> C# Advanced </a>
 </skalata> 
